@@ -3,8 +3,7 @@
 This program takes in timestamps as input and plays a random youtube video (url of which is given in urls.txt) at that timestamp
 <br /><br />
 
-#### STEPS TO GET STARTED
-<br/>
+#### STEPS TO GET STARTED<br/>
 * Clone this github repo to a folder<br />
 * Open command prompt from that folder and run - pip install -r requirements.txt<br />
 * Once the required files are installed by pip, execute the main.py file as directed
